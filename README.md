@@ -3,6 +3,12 @@ Silly little thing.
 
 Live at: 
 
+https://anttiluode.github.io/GhostYou/
+
+and: 
+
+https://huggingface.co/spaces/Aluode/GhostYou
+
 ![pic](pic.png)
 
 ---
